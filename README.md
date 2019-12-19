@@ -2,6 +2,6 @@
 Coding Bootcamp assigned homework assignment to create a Bootstrap-based portfolio.
 
 Changes since last version:
-- Added images and image cards to Portfolio page
-- Fixed responsiveness to all pages
-- Corrected form on Contact page
+- Fixed dead links
+- Added image and link to Batman Guess the Word Game
+- Link to <a href="https://acarrillo2019.github.io/Word-Guess-Game/">Game.</a>
