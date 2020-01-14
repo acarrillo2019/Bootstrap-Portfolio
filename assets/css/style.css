@@ -2,6 +2,10 @@ body, html {
   height: 100%;
 }
 
+body {
+  background-color: rgb(206, 206, 206);
+}
+
 .bg { 
   
   background-image: url("assets\images\concrete_seamless.png");
